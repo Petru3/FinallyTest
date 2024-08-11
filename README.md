@@ -3,7 +3,7 @@
 Acest proiect este o aplicație full-stack care utilizează **React** și **Vite** pentru partea de front-end și **NestJS** pentru partea de back-end. Scopul acestui proiect este de a demonstra integrarea între aceste tehnologii moderne si crearea unei aplicatii de monitorizare a unui portofoliu, Folosind un Dashboard si pagina de Lucrari pentru o afisare moderna, folosind TailWind pentru Design si Figma pentru Proiectare.
 
 # Link catre Design (facut de mine):
-# https://www.figma.com/design/3ZYD6lsicdBfiMzlTMEz1e/portofolio?node-id=0-1&t=ZG5HiKB7bK1bPIsy-1
+### https://www.figma.com/design/3ZYD6lsicdBfiMzlTMEz1e/portofolio?node-id=0-1&t=ZG5HiKB7bK1bPIsy-1
 
 ## Tailwind is used to perform
 
