@@ -43,4 +43,4 @@ Acest proiect este o aplicație full-stack care utilizează **React** și **Vite
    ```bash
    npm start
    
-Daca exista probleme va rog sa ma contactati in privat;)
+Daca exista probleme rog contactarea in privat;)
