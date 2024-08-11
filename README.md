@@ -16,14 +16,14 @@ Acest proiect este o aplicație full-stack care utilizează **React** și **Vite
 
 ### Front-End
 
-1. Intra in folderul unde sunt fisierele atat la Front-End cat si la Backend
-   ```bash
-    cd FinallyTest 
-
-2. Git Clone
+1. Git Clone
    (Creaza fisierul din contul local)
     ```bash
     git clone https://github.com/Petru3/FinallyTest/
+
+2. Intra in folderul unde sunt fisierele atat la Front-End cat si la Backend
+   ```bash
+    cd FinallyTest 
 
 3. **Navighează în directorul front-end**:
    ```bash
