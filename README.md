@@ -16,21 +16,25 @@ Acest proiect este o aplicație full-stack care utilizează **React** și **Vite
 
 ### Front-End
 
-1. Git Clone
+1. Intra in folderul unde sunt fisierele atat la Front-End cat si la Backend
+   ```bash
+    cd FinallyTest 
+
+2. Git Clone
    (Creaza fisierul din contul local)
     ```bash
     git clone https://github.com/Petru3/FinallyTest/
 
-2. **Navighează în directorul front-end**:
+3. **Navighează în directorul front-end**:
    ```bash
    cd front-end
 
-3. Instaleaza Npm (node_modules):
+4. Instaleaza Npm (node_modules):
    ```bash
    npm install
    
 
-4. Executa Pornirea Front-End-ului:
+5. Executa Pornirea Front-End-ului:
    ```bash
    npm run dev
    
