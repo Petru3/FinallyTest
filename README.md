@@ -19,10 +19,11 @@ Acest proiect este o aplicație full-stack care utilizează **React** și **Vite
 2. **Navighează în directorul front-end**:
    ```bash
    cd front-end
+
+3. Instaleaza Npm (node_modules):
+   ```bash
+   npm install
    
-3.(Instaleaza npm - node_modules):
-    ```bash
-    npm install
 
 4. Executa Pornirea Front-End-ului:
    ```bash
@@ -35,10 +36,11 @@ Acest proiect este o aplicație full-stack care utilizează **React** și **Vite
     cd project-backend
 
 3. (Instaleaza npm - node_modules):
+   ```bash
    npm install
    
-4. Executa Pornirea Back-End-ului:
-   powershell or bash
+5. Executa Pornirea Back-End-ului:
+   ```bash
    npm start
    
 Daca exista probleme va rog sa ma contactati in privat;)
