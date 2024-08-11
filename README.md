@@ -21,19 +21,20 @@ Acest proiect este o aplicație full-stack care utilizează **React** și **Vite
    cd front-end
    
 3.(Instaleaza npm - node_modules):
-    powershell sau bash
+    ```bash
     npm install
 
 4. Executa Pornirea Front-End-ului:
-   powershell or bash
+   ```bash
    npm run dev
    
 ### Back-End (Nest JS)
 
 1. **Navighează în directorul  project-backend**:
+   ```bash
     cd project-backend
 
-2. (Instaleaza npm - node_modules):
+3. (Instaleaza npm - node_modules):
    npm install
    
 4. Executa Pornirea Back-End-ului:
